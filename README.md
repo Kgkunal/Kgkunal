@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Alard Community Network**
 
-- 🌱 I’m currently learning **Android Dev**
+- 🌱 I’m currently learning **Android Dev , React **
 
-- 💬 Ask me about **Web Dev,JavaScript,Php**
+- 💬 Ask me about **Web Dev,JavaScript**
 
 - 📫 How to reach me **KgkunalGavhane1721@gmail.com**
 
